@@ -1,7 +1,7 @@
 # SFTM Training Lua
 Street Fighter: The Movie training mode Lua script for Final Burn Neo. Written by [@invitroFG](https://twitter.com/invitroFG), published on GitHub with permission.
 
-![007605](https://user-images.githubusercontent.com/8432212/124339044-48923800-db79-11eb-84dc-574846b2e8c8.png)
+![007605](https://user-images.githubusercontent.com/8432212/124339044-48923800-db79-11eb-84dc-574846b2e8c8.png "Guile kicking Bison's ass so hard that the next Bison wannabe is gonna feel it, with training mode displays over the screen.")
 
 # Current features
 - Supports Final Burn Neo (MAME-rr support is currently not working)
