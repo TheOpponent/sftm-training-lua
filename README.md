@@ -14,6 +14,7 @@ Street Fighter: The Movie training mode Lua script for Final Burn Neo. Written b
   - Enable hidden modes
 - In-game save states
 - Input recording and playback with repeat, random, and one-time modes
+- Macro recording and playback support with support for playing single or multiple macros back repeatedly, in order, or randomly
 - Footsies simulator: Player 2 repeatedly does preset movements and buttons at random intervals
 
 # Instructions
