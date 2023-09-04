@@ -21,5 +21,5 @@ Street Fighter: The Movie training mode Lua script for Final Burn Neo. Written b
 In Final Burn Neo, open Game > Lua Scripting > New Lua Scripting Window... Open the script and click Run. This will show the text overlays. Further instructions are shown in the console output.
 
 # More info
-- [Community Discord](https://discord.io/SFTM)
+- [Community Discord](https://streetfighterthemovie.com)
 - [Mizuumi Wiki](https://wiki.gbl.gg/w/Street_Fighter:_The_Movie)
